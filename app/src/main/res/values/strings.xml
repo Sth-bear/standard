@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Standard1</string>
+    <string name="bold">Discover Your \nOwn Dream House</string>
+    <string name="normal">Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nDiam maecenas mi non sed ut odio. Non, justo, sed facilisiet. \nEget viverra urna, vestibulum egestas faucibus egestas. \nSagittis nam velit volutpat eu nunc.</string>
+    <string name="sign">Sign in</string>
+    <string name="register">Register</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="welcome_info">Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nDiam maecenas mi non sed ut odio. Non, justo, sed facilisi et.</string>
+    <string name="id_hint">Username , Email \u0026 Phone Number</string>
+    <string name="pw_hint">Password</string>
+    <string name="forgot">Forgot Passwrd?</string>
+    <string name="or_sing">Or Sing up With</string>
+</resources>
